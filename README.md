@@ -25,6 +25,8 @@ XL6009: DC-DC converter
 Solar Cells: For sustainable power
 Relay Module (SRD-05VDC-SL-C)
 5V Voltage Sensor
+
+
 🚀 Features:-
 Multi-Sensor Data Acquisition: Collects data from a wide array of environmental sensors.
 Real-Time Display: Shows sensor data on OLED screens.
@@ -32,6 +34,8 @@ Power Management: Utilizes solar cells and DC-DC converters for efficient energy
 Environmental Monitoring: Tracks gas, moisture, and temperature levels.
 Automated Control: Implements relay modules for automation.
 Live Alerts via Mobile App: Uses AI and ML to provide notifications to end users.
+
+
 🌐 Software Integration:-
 Website (Government Use)
 Data Visualization Dashboard
@@ -41,6 +45,8 @@ Mobile App (End Users)
 Live Alerts and Notifications
 Real-Time Sensor Data
 Interactive User Interface
+
+
 AI & ML Integration:-
 Predictive Analytics
 Automated Alerts and Actions
