@@ -1,0 +1,71 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+XDCR_MQ-7
+$EndINDEX
+$MODULE XDCR_MQ-7
+Po 0 0 0 15 00000000 00000000 ~~
+Li XDCR_MQ-7
+Cd 
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -0.46 -9.635 1 1 0 0.05 N V 21 "XDCR_MQ-7"
+T1 0.175 9.635 1 1 0 0.05 N V 21 "VAL**"
+DC 0 0 8.4 0 0.127 27
+DC 0 0 8.4 0 0.127 21
+DC 0 0 8.65 0 0.05 26
+DC -8.2 -4 -8.1 -4 0.2 21
+DC -8.2 -4 -8.1 -4 0.2 27
+$PAD
+Sh "2" C 1.8 1.8 0 0 0
+Dr 1.2 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -4.75 0
+$EndPAD
+$PAD
+Sh "5" C 1.8 1.8 0 0 0
+Dr 1.2 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 4.75 0
+$EndPAD
+$PAD
+Sh "1" R 1.8 1.8 0 0 0
+Dr 1.2 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -3.35876 -3.35876
+$EndPAD
+$PAD
+Sh "4" C 1.8 1.8 0 0 0
+Dr 1.2 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 3.35876 3.35876
+$EndPAD
+$PAD
+Sh "3" C 1.8 1.8 0 0 0
+Dr 1.2 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -3.35876 3.35876
+$EndPAD
+$PAD
+Sh "6" C 1.8 1.8 0 0 0
+Dr 1.2 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 3.35876 -3.35876
+$EndPAD
+$EndMODULE XDCR_MQ-7
